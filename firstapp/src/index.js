@@ -7,7 +7,7 @@ import * as firebase from 'firebase';
 
 // Initialize Firebase
 var config = {
-  // Firebase Setting Go Here
+  // your firebase info
 };
 firebase.initializeApp(config);
 
